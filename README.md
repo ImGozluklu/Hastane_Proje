@@ -1,7 +1,8 @@
 # Hastane_Proje
 Mrhs benzeri bir otomasyon projesi. .Net Framework çatışı altında geliştirdiğim bu uygulamada Db first yaklasımını uyguladım.Uygulamada 3 grup var  Hasta,Doktor ve Sekreter .
  Hasta kayıt olabiliyor , randevu alabiliyor  ... Doktor randevuları kontrol edebiliyor kendi crud işlemlerini yapabiliyor... Sekreter ise duyuru yayınlayabiliyor,doktor ve brans ekleyip silebiliyor.Genel 
- olarak sistemi kontrol ediyor ... **Asağıya bir video bırakıyorum** 
+ olarak sistemi kontrol ediyor ... 
+ **Asağıya bir video bırakıyorum** 
 
  
 
